@@ -1,4 +1,4 @@
-(module JUMPER_BLUE (layer F.Cu) (tedit 5E377DF5)
+(module JUMPER_BLUE (layer F.Cu) (tedit 5E41C47B)
   (descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
   (tags "Through hole pin header THT 1x03 2.54mm single row")
   (fp_text reference REF** (at 0 -2.33) (layer F.SilkS) hide
@@ -11,12 +11,7 @@
   (fp_line (start -1.33 -1.33) (end -1.33 3.81) (layer F.CrtYd) (width 0.12))
   (fp_line (start 1.33 -1.33) (end 1.33 3.81) (layer F.CrtYd) (width 0.12))
   (fp_line (start -1.33 -1.33) (end 1.33 -1.33) (layer F.CrtYd) (width 0.12))
-  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model ${KIPRJMOD}/3d/M7583-46_asm.STEP
+  (model ${AERO_3D}/M7583-46_asm.STEP
     (offset (xyz -1.0668 -1.2192 5.5372))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

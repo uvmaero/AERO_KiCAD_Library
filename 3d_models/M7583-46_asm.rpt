@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : M7580_ASM
+Receiving System Product I.D.: M7580_ASM
+File Name                    : M7583-46_asm.igs
+Sending System               : Creo Parametric by PTC Inc.
+Preprocessor Version         : 2014190
+File Creation Date           : 20141002.085707
+Model Creation Date          : 20141002.085707
+Units                        : MM
+Model Space Scale            : 1
+Author                       : sbennett
+Organization                 : Unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               1
+  Highest number of significant digits:                     13
+  Average number of significant digits:                5.69081
+  Maximum distance to origin:                          7.30279
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   13
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             50        50
+102  Composite curve                                202       202
+110  Line                                           968       968
+120  Surface of revolution                           14        14
+124  Transformation matrix                           50        50
+126  Rational B-spline curve                         32        32
+128  Rational B-spline surface                       84        84
+142  Curve on a parametric surface                  101       101
+144  Trimmed parametric surface                      98        98
+314  Color definition                                11        11
+402  Associativity instance                           2         2
+406  Property                                         2         2
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       2
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Sunday, February 02, 2020 20:52:36
+Finish time: Sunday, February 02, 2020 20:52:39
+Processing time: 0 days, 00 hours, 00 mins, 03 secs

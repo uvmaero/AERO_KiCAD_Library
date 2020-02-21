@@ -1,4 +1,4 @@
-(module TE_1-776200-1_23pin_Vertical (layer F.Cu) (tedit 5CA75900)
+(module TE_1-776200-1_23pin_Vertical (layer F.Cu) (tedit 5E5061B8)
   (fp_text reference J16 (at 31.78 9.97 -270) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -57,7 +57,7 @@
   (pad 2 thru_hole circle (at -10 -4) (size 2.625 2.625) (drill 1.75) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at -14 -4) (size 2.625 2.625) (drill 1.75) (layers *.Cu *.Mask))
   (pad Hole np_thru_hole circle (at -23.7 -10.8) (size 2 2) (drill 2) (layers *.Cu *.Mask F.SilkS))
-  (model "C:/Users/Willem Hillier/Documents/Kicad Libraries/Connector_TE-AMPSEAL.pretty/3d/c-776200-1-d3-3d.stp"
+  (model ${AERO_LIBS}/Connector_TE-AMPSEAL.pretty/3d/c-776200-1-d3-3d.stp
     (offset (xyz 0 0 34.28999948501587))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

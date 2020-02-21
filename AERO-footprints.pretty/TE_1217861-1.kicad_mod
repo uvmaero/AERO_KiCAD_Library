@@ -1,5 +1,5 @@
-(module TE_1217861-1 (layer F.Cu) (tedit 5D9D2EF9)
-  (fp_text reference -Vin1 (at -2.02551 -2.20761) (layer F.SilkS)
+(module TE_1217861-1 (layer F.Cu) (tedit 5E41C4D9)
+  (fp_text reference **REF (at -2.02551 -2.20761) (layer F.SilkS)
     (effects (font (size 0.640353 0.640353) (thickness 0.05)))
   )
   (fp_text value GND (at -1.7689 2.29477) (layer F.SilkS)

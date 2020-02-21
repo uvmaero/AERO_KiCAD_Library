@@ -1,4 +1,4 @@
-(module JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical (layer F.Cu) (tedit 5E378308)
+(module JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical (layer F.Cu) (tedit 5E41C45B)
   (descr "JST XH series connector, B4B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
   (tags "connector JST XH vertical boss")
   (fp_text reference J4 (at 3.75 -3.55 180) (layer F.SilkS)
@@ -47,7 +47,7 @@
   (pad 3 thru_hole oval (at 5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 2.5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask))
   (pad 1 thru_hole roundrect (at 0 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (roundrect_rratio 0.147059))
-  (model ${KIPRJMOD}/3d/B4B-XH-A.STEP
+  (model ${AERO_3D}/B4B-XH-A.STEP
     (offset (xyz 3.7338 -0.4825999999999999 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

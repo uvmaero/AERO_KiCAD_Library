@@ -1,4 +1,4 @@
-(module TE_MATE-N-LOK_1-770866-x_1x02_P4.14mm_Vertical (layer F.Cu) (tedit 5E376AC1)
+(module TE_MATE-N-LOK_1-770866-x_1x02_P4.14mm_Vertical (layer F.Cu) (tedit 5E41C385)
   (descr "Molex Mini-Universal MATE-N-LOK, old mpn/engineering number: 1-770866-x, 2 Pins per row (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=82181_SOFTSHELL_HIGH_DENSITY&DocType=CS&DocLang=EN), generated with kicad-footprint-generator")
   (tags "connector TE MATE-N-LOK side entry")
   (fp_text reference J1 (at 0 -5.35 -180) (layer F.SilkS)
@@ -59,7 +59,7 @@
   (pad "" np_thru_hole circle (at 0 8.58) (size 3.18 3.18) (drill 3.18) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 4.14) (size 3.3 2.64) (drill 1.4) (layers *.Cu *.Mask))
   (pad 1 thru_hole roundrect (at 0 0) (size 3.3 2.64) (drill 1.4) (layers *.Cu *.Mask) (roundrect_rratio 0.094697))
-  (model ${KIPRJMOD}/3d/c-1-770872-0-h-3d.stp
+  (model ${AERO_3D}/c-1-770166-0-n-3d.stp
     (offset (xyz 0.0254 -2.032 14.3002))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
