@@ -1,4 +1,4 @@
-(module hot_med (layer F.Cu) (tedit 5E56CB16)
+(module hotsurface_lg (layer F.Cu) (tedit 5E56CB16)
   (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
