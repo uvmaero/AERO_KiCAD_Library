@@ -6,4 +6,10 @@ K RELAY SPST 40A 12V
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=Power_PCB_Relay_T9V_Solar&DocType=DS&DocLang=English
 $ENDCMP
 #
+$CMP Wire
+D wire
+K wire
+F ~
+$ENDCMP
+#
 #End Doc Library
