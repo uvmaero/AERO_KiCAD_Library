@@ -1,0 +1,4 @@
+C:\git\AERO_KiCAD_Library\3d_models\c-5569284-1-b-3d.wrl
+Start Time (sec.):	0.0
+End Time (sec.):	3.0
+Number of Frames:	35
