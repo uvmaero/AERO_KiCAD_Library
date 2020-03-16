@@ -1,0 +1,31 @@
+Solid Edge Translation to STEP
+Date: Monday,March 16,2020 02:52PM
+Output File: C:\git\AERO_KiCAD_Library\3d_models\PJ012-8P8CX-FA.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: Intel(R) Xeon(R) CPU E3-1535M v6 @ 3.10GHz
+Operating System: Windows 10
+Installed Memory: 63.81 GB
+
+Software Information
+Parasolid Version: 31.1.255
+PSBodyShop Version: 31.1.110
+Step Adapter Version: 5.0.48
+Solid Edge Version: 220.00.00.104 x64
+
+STEP Export Options
+Export Format: AP214
+Export Construction Sheets: Off
+Export Construction Solids: Off
+Export Construction Wires: Off
+Export Displayed Parts Only: Off
+Export Units: Millimeters
+Export Part Component Names As Unicode: Off
+Export PMI: Off
+
+Phase 1 of 1 Translating Parasolid to foreign data types...
+Translation process completed
+Time required to translate:00 : 00 : 02
