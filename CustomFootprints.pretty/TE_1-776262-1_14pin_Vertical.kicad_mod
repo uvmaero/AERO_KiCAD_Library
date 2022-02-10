@@ -1,6 +1,6 @@
 (footprint "TE_1-776262-1_14pin_Vertical" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61FB0470)
+  (tedit 61FB09DC)
   (attr through_hole)
   (fp_text reference "TE_1-776262-1" (at -16.2708 -17.6691) (layer "F.SilkS")
     (effects (font (size 1.40128 1.40128) (thickness 0.05)))
