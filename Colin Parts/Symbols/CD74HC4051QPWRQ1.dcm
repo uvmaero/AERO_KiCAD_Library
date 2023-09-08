@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD74HC4051QPWRQ1
+D Automotive Catalog High Speed CMOS Logic Analog Multiplexers/Demultiplexers
+K
+F http://www.ti.com/lit/ds/symlink/cd74hc4051-q1.pdf
+$ENDCMP
+#
+#End Doc Library
